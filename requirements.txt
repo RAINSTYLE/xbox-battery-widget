@@ -1,0 +1,6 @@
+pyinstaller>=6.0
+winrt-runtime>=2.0
+winrt-Windows.Foundation>=2.0
+winrt-Windows.Foundation.Collections>=2.0
+winrt-Windows.Gaming.Input>=2.0
+winrt-Windows.Devices.Power>=2.0
